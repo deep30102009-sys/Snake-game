@@ -1,2 +1,19 @@
-# Snake-game
-A Snake game built in Python using Turtle for graphics and Pygame for sound. The snake moves with arrow keys, grows when it eats food, and dies on border or self-collision. Score increases by 10 per food. Includes sound effects, high score tracking, and a replay prompt after game over.
+# Snake Game — Python
+
+A classic Snake game built with Python (Turtle + Pygame).
+
+## Requirements
+- Python 3.12
+- pygame
+
+## Install Dependencies
+pip install pygame
+
+## How to Run
+python snake.py
+
+## Controls
+Arrow keys to move
+
+## Notes
+Requires eat.wav and game_over.wav in the same folder.
